@@ -7,7 +7,7 @@
 	<header class="header-section">
 		<div class="container">
 			<!-- logo -->
-			<a href="index.html" class="site-logo"><img src="img/logo.png" alt=""></a>
+			<a href="index" class="site-logo"><img src="../assets/img/logo.png" alt=""></a>
 			<div class="nav-switch">
 				<i class="fa fa-bars"></i>
 			</div>
@@ -34,12 +34,12 @@
 				<a href=""><i class="fa fa-shopping-cart"></i></a>
 			</div>
 			<ul class="main-menu">
-				<li class="active"><a href="index.html">Home</a></li>
-				<li><a href="about.html">About Us</a></li>
+				<li class="active"><a href="index.php?page=accueil">Home</a></li>
+				<li><a href="index.php?page=about">About Us</a></li>
 				<li><a href="#">Event</a></li>
-				<li><a href="course.html">COURSES</a></li>
-				<li><a href="blog.html">blog</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="index.php?page=course">COURSES</a></li>
+				<li><a href="index.php?page=blog">blog</a></li>
+				<li><a href="index.php?page=contact">Contact</a></li>
 			</ul>
 		</div>
 	</nav>

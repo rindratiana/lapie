@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Unica - University Template</title>
+	<title>Lapie</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Unica University Template">
 	<meta name="keywords" content="event, unica, creative, html">
@@ -34,15 +34,22 @@
 	}
 	 include('inc/'.$page.'.php'); ?>
 	<!-- Dynamic page end -->
-
+	<input type="hidden" value="<?php echo $page; ?>" id="pagename">
 
 	<!-- Footer section -->
 	<?php include('inc/footer.php'); ?>
 	<!-- Footer section end-->
 
+	<script type="text/javascript">
+		var pageName = document.getElementById('pagename').value + '';
+		pageName = pageName.substring(0, 1).toUpperCase() + pageName.substring(1, pageName.length) + ' | Lapie';
+		document.title = pageName;
+		console.log(pageName);
+	</script>
 
 
 	<!--====== Javascripts & Jquery ======-->
+	<script type="text/­javascript" src="https://­maps.googleapis.com/­maps/api/­js?sensor=false"></script>
 	<script src="../assets/js/jquery-3.2.1.min.js"></script>
 	<script src="../assets/js/owl.carousel.min.js"></script>
 	<script src="../assets/js/jquery.countdown.js"></script>
