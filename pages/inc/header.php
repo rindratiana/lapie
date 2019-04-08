@@ -18,7 +18,7 @@
 				</div>
 				<div class="hf-item">
 					<i class="fa fa-map-marker"></i>
-					<p><span>Find us:</span>40 Baria Street 133/2, New York City, US</p>
+					<p><span>Trouvez nous:</span>Lot III X 307 C Manarintsoa Est, Antananarivo 101</p>
 				</div>
 			</div>
 		</div>
