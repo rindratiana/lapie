@@ -1,16 +1,16 @@
 
 var w = window.innerWidth;
 if (w < 768) {
-	var center_qud = new google.maps.LatLng(51.497003, -0.244547); // for mobile screen center
+	var center_qud = new google.maps.LatLng(-18.913384,47.514174); // for mobile screen center
 } else {
-	var center_qud = new google.maps.LatLng(51.497003, -0.250957);
+	var center_qud = new google.maps.LatLng(-18.913384,47.514174);
 }
 
 function initialize() {
 	var myOptions = {
-		zoom: 15,
+		zoom: 18,
 		center: center_qud, //change the coordinates
-		mapTypeId: google.maps.MapTypeId.ROADMAP,
+		mapTypeId: google.maps.MapTypeId.HYBRID,
 		scrollwheel: false,
 		mapTypeControl: false,
 		zoomControl: false,
@@ -22,7 +22,7 @@ function initialize() {
 	var marker = new google.maps.Marker({
 		map: map,
 		icon: img_icon,
-		position: new google.maps.LatLng(51.497003, -0.244547) //change the coordinates
+		position: new google.maps.LatLng(-18.913384,47.514174) //change the coordinates
 	});
 	google.maps.event.addListener(marker, "click", function() {
 		infowindow.open(map, marker);

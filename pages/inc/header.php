@@ -14,7 +14,7 @@
 			<div class="header-info">
 				<div class="hf-item">
 					<i class="fa fa-clock-o"></i>
-					<p><span>Temps de travail:</span>Lundi - Vendredi: 07H - 06H</p>
+					<p><span>Temps de travail:</span>Lundi - Vendredi: 07 H - 06 H</p>
 				</div>
 				<div class="hf-item">
 					<i class="fa fa-map-marker"></i>
