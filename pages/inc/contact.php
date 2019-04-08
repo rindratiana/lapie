@@ -27,7 +27,7 @@
 					</div>
 					<div class="contact-info">
 						<h4>Temps de travail</h4>
-						<p>Lundi - Vendredi: 07 H - 06 H</p>
+						<p>Lundi - Vendredi: 07 H - 17 H</p>
 					</div>
 				</div>
 				<!-- Google map -->
@@ -38,19 +38,19 @@
 					<h3>Contact</h3>
 					<p>Contactez-nous pour plus d' information</p>
 				</div>
-				<form class="comment-form --contact">
+				<form class="comment-form --contact" action="./src/traitementMail.php" method="POST">
 					<div class="row">
 						<div class="col-lg-4">
-							<input type="text" placeholder="Votre nom">
+							<input type="text" placeholder="Votre nom" name="nom">
 						</div>
 						<div class="col-lg-4">
-							<input type="text" placeholder="Votre adresse mail">
+							<input type="text" placeholder="Votre adresse mail" name="adresse_mail">
 						</div>
 						<div class="col-lg-4">
-							<input type="text" placeholder="Objet">
+							<input type="text" placeholder="Objet" name="objet">
 						</div>
 						<div class="col-lg-12">
-							<textarea placeholder="Message"></textarea>
+							<textarea placeholder="Message" name="message"></textarea>
 							<div class="text-center">
 								<button class="site-btn">Envoyer</button>
 							</div>

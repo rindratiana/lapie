@@ -14,7 +14,7 @@
 			<div class="header-info">
 				<div class="hf-item">
 					<i class="fa fa-clock-o"></i>
-					<p><span>Temps de travail:</span>Lundi - Vendredi: 07 H - 06 H</p>
+					<p><span>Temps de travail:</span>Lundi - Vendredi: 07 H - 17 H</p>
 				</div>
 				<div class="hf-item">
 					<i class="fa fa-map-marker"></i>
@@ -31,12 +31,11 @@
 		<div class="container">
 			<div class="nav-right">
 				<a href=""><i class="fa fa-search"></i></a>
-				<a href=""><i class="fa fa-shopping-cart"></i></a>
 			</div>
 			<ul class="main-menu">
 				<li class="active"><a href="index.php?page=accueil">Accueil</a></li>
 				<li><a href="index.php?page=historique">Historique</a></li>
-				<li><a href="index.php?page=photo">En photos</a></li>
+				<li><a href="index.php?page=blog">En photos</a></li>
 				<li><a href="index.php?page=contact">Contact</a></li>
 			</ul>
 		</div>
