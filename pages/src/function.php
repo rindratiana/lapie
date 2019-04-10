@@ -1,4 +1,3 @@
-
 <?php
 	$to = "rindrap16.aps1@gmail.com";
 	$subject = "My subject";
