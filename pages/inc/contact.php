@@ -14,7 +14,7 @@
 			<div class="map-section">
 				<div class="contact-info-warp">
 					<div class="contact-info">
-						<h4>Adresse</h4>
+						<h4>Adresse Test</h4>
 						<p>Lot III X 307 C Manarintsoa Est, Antananarivo 101, MADAGASCAR</p>
 					</div>
 					<div class="contact-info">
