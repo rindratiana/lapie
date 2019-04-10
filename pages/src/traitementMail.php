@@ -1,11 +1,9 @@
 <?php
-	// include ('function.php');
+	include 'function.php';
+	$nom = $_POST['nom'];
+	$mail = $_POST['adresse_mail'];
+	$objet = $_POST['objet'];
+	$message = $_POST['message'];
 
-	// $nom = $_POST['nom'];
-	// $mail = $_POST['adresse_mail'];
-	// $objet = $_POST['objet'];
-	// $message = $_POST['message'];
-
-	// envoyerMail($mail,$objet,$message);
-	header('Location:function.php');
+	envoyerMail($mail,$objet,$message);
 ?>
