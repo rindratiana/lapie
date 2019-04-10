@@ -6,4 +6,5 @@
 	$message = $_POST['message'];
 
 	envoyerMail($mail,$objet,$message);
+	header('Location:index.php?page=contact&envoiMail=succes')
 ?>

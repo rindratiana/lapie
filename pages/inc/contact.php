@@ -37,6 +37,7 @@
 				<div class="section-title text-center">
 					<h3>Contact</h3>
 					<p>Contactez-nous pour plus d' information</p>
+					<p>Votre message a été bien envoyé</p>
 				</div>
 				<form class="comment-form --contact" action="./src/traitementMail.php" method="POST">
 					<div class="row">
