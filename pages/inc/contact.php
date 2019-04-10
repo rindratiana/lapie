@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <!-- Breadcrumb section -->
 	<div class="site-breadcrumb">
 		<div class="container">
@@ -63,5 +64,4 @@
 			</div>
 		</div>
 	</section>
-	<script type="text/­javascript" src="https://­maps.googleapis.com/­maps/api/­js?sensor=false"></script>
 	<!-- Courses section end-->
