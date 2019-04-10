@@ -37,7 +37,9 @@
 				<div class="section-title text-center">
 					<h3>Contact</h3>
 					<p>Contactez-nous pour plus d' information</p>
-					<p>Votre message a été bien envoyé</p>
+					<?php if(isset($_GET['envoiMail']) && $_GET['envoiMail']=='succes'){ ?>
+						<p>Votre message a été bien envoyé</p>
+					<?php } ?>
 				</div>
 				<form class="comment-form --contact" action="./src/traitementMail.php" method="POST">
 					<div class="row">
