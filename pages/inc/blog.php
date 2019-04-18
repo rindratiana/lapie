@@ -14,47 +14,47 @@
 			<div class="row">
 				<div class="col-lg-8 post-list">
 					<div class="post-item">
-						<div class="post-thumb set-bg" data-setbg="img/blog/1.jpg"></div>
+						<div class="post-thumb set-bg" data-setbg="../assets/img/blog/primaire2.jpg"></div>
 						<div class="post-content">
-							<h3><a href="single-blog.php">Parents who try to be their children’s best friends</a></h3>
+							<h3><a href="single-blog.php">Photo de classe (primaire)</a></h3>
 							<div class="post-meta">
-								<span><i class="fa fa-calendar-o"></i> 23 Mar 2018</span>
-								<span><i class="fa fa-user"></i> Cathrine Zeta</span>
+								<span><i class="fa fa-calendar-o"></i> Décembre 2018</span>
+								<span><i class="fa fa-user"></i></span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel urna eget lectus molestie rhoncus sed in nunc. Vestib tincidunt facilisis ligula sed viverra. Duis porttitor sapien maximus, volutpat massa malesuada. Curabitur orci est, molestie eget orci, tincidunt dictum felis. Cras ante nunc, pharetra eu rutrum aliquet, gestas eget ex. Suspendisse potenti vietlott Quisque asvitae eros efficitur lacus viverra molestie at ut mi. Quisque id mollis nibh...</p>
+							<p>Photo 1</p>
 						</div>
 					</div>
 					<div class="post-item">
-						<div class="post-thumb set-bg" data-setbg="img/blog/2.jpg"></div>
+						<div class="post-thumb set-bg" data-setbg="../assets/img/blog/prescolaire.jpg"></div>
 						<div class="post-content">
-							<h3><a href="single-blog.php">Graduations could be delayed as external examiners</a></h3>
+							<h3><a href="single-blog.php">Préscolaire en photo</a></h3>
 							<div class="post-meta">
-								<span><i class="fa fa-calendar-o"></i> 23 Mar 2018</span>
-								<span><i class="fa fa-user"></i> Cathrine Zeta</span>
+								<span><i class="fa fa-calendar-o"></i> Décembre 2018</span>
+								<span><i class="fa fa-user"></i></span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel urna eget lectus molestie rhoncus sed in nunc. Vestibulum tincidunt facilisis ligula sed viverra. Duis porttitor sapien maximus, volutpat massa malesuada. Curabitur orci est, ut molestie eget orci, tincidunt dictum felis. Cras ante nunc, pharetra eu rutrum aliquet, egestas eget ex. Suspendisse potenti. Quisque asvitae eros efficitur lacus viverra molestie at ut mi. Quisque id mollis nibh...</p>
+							<p></p>
 						</div>
 					</div>
 					<div class="post-item">
-						<div class="post-thumb set-bg" data-setbg="img/blog/3.jpg"></div>
+						<div class="post-thumb set-bg" data-setbg="../assets/img/blog/directrice.jpg"></div>
 						<div class="post-content">
-							<h3><a href="single-blog.php">Private schools adopt a Ucas-style application system</a></h3>
+							<h3><a href="single-blog.php">Mère Noel à La Pie</a></h3>
 							<div class="post-meta">
-								<span><i class="fa fa-calendar-o"></i> 23 Mar 2018</span>
-								<span><i class="fa fa-user"></i> Cathrine Zeta</span>
+								<span><i class="fa fa-calendar-o"></i> Décembre 2018</span>
+								<span><i class="fa fa-user"></i> Rakotoson Nivo Harison</span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel urna eget lectus molestie rhoncus sed in nunc. Vestibulum tincidunt facilisis ligula sed viverra. Duis porttitor sapien maximus, volutpat massa malesuada. Curabitur orci est, ut molestie eget orci, tincidunt dictum felis. Cras ante nunc, pharetra eu rutrum aliquet, egestas eget ex. Suspendisse potenti. Quisque asvitae eros efficitur lacus viverra molestie at ut mi. Quisque id mollis nibh...</p>
+							<p></p>
 						</div>
 					</div>
 					<div class="post-item">
-						<div class="post-thumb set-bg" data-setbg="img/blog/4.jpg"></div>
+						<div class="post-thumb set-bg" data-setbg="../assets/img/blog/personnelle.jpg"></div>
 						<div class="post-content">
-							<h3><a href="single-blog.php">Cambridge digs in at the top of university league table</a></h3>
+							<h3><a href="single-blog.php">Les super héros de La Pie</a></h3>
 							<div class="post-meta">
-								<span><i class="fa fa-calendar-o"></i> 23 Mar 2018</span>
-								<span><i class="fa fa-user"></i> Cathrine Zeta</span>
+								<span><i class="fa fa-calendar-o"></i> Décembre 2018</span>
+								<span><i class="fa fa-user"></i></span>
 							</div>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel urna eget lectus molestie rhoncus sed in nunc. Vestibulum tincidunt facilisis ligula sed viverra. Duis porttitor sapien maximus, volutpat massa malesuada. Curabitur orci est, ut molestie eget orci, tincidunt dictum felis. Cras ante nunc, pharetra eu rutrum aliquet, egestas eget ex. Suspendisse potenti. Quisque asvitae eros efficitur lacus viverra molestie at ut mi. Quisque id mollis nibh...</p>
+							<p>Les professeurs</p>
 						</div>
 					</div>
 					<ul class="site-pageination">

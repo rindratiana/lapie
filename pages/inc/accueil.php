@@ -8,7 +8,7 @@
 						<div class="row">
 							<div class="col-lg-8">
 								<div class="hs-subtitle">La Pépinière des Intellectuels Elites (La Pie)</div>
-								<h2 class="hs-title">Vote avenir commence ici...</h2>
+								<h2 class="hs-title">Votre avenir commence ici...</h2>
 								<p class="hs-des"><q><i>L'éducation est l'arme la plus puissante qu'on puisse utiliser pour changer le monde</i></q>. Nelson Mandela</p>
 							</div>
 						</div>
@@ -36,35 +36,35 @@
 	<section class="service-section spad">
 		<div class="container services">
 			<div class="section-title text-center">
-				<h3>OUR SERVICES</h3>
-				<p>We provides the opportunity to prepare for life</p>
+				<h3>NOS OBJECTIFS</h3>
+				<p>Le lycée La Pie vous offre une grande opportunité pour votre réussite</p>
 			</div>
 			<div class="row">
 				<div class="col-lg-4 col-sm-6 service-item">
 					<div class="service-icon">
-						<img src="../assets/img/services-icons/1.png" alt="1">
+						<img src="../assets/img/icone/citoyen.png" alt="1">
 					</div>
 					<div class="service-content">
-						<h4>Art Studio</h4>
-						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+						<h4>Des citoyens responsables</h4>
+						<p>Nous formons nos élèves à devenir des citoyens responsables, s'engager à la bien-être de sa société et avoir des valeurs de patriotisme élevé!</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6 service-item">
 					<div class="service-icon">
-						<img src="../assets/img/services-icons/2.png" alt="1">
+						<img src="../assets/img/icone/reussite.png" alt="1">
 					</div>
 					<div class="service-content">
-						<h4>Great Facility</h4>
-						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+						<h4>La réussite</h4>
+						<p>Nous vous accopoagnons jusqu'à votre réussite à toutes les situations grâce à nos systèmes éducatifs et nos enseignements
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6 service-item">
 					<div class="service-icon">
-						<img src="../assets/img/services-icons/3.png" alt="1">
+						<img src="../assets/img/icone/ameliorer.png" alt="1">
 					</div>
 					<div class="service-content">
-						<h4>Activity Hub</h4>
-						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
+						<h4>Améliorer nos résultats</h4>
+						<p>Nous ne cesserons jamais d'améliorer nos résultats pour être toujours la meilleure.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6 service-item">

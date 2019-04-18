@@ -14,11 +14,11 @@
 			<div class="header-info">
 				<div class="hf-item">
 					<i class="fa fa-clock-o"></i>
-					<p><span>Working time:</span>Monday - Friday: 08 AM - 06 PM</p>
+					<p><span>Temps de travail:</span>Lundi - Vendredi: 07 H - 17 H</p>
 				</div>
 				<div class="hf-item">
 					<i class="fa fa-map-marker"></i>
-					<p><span>Find us:</span>40 Baria Street 133/2, New York City, US</p>
+					<p><span>Trouvez nous:</span>Lot III X 307 C Manarintsoa Est, Antananarivo 101</p>
 				</div>
 			</div>
 		</div>
@@ -31,14 +31,19 @@
 		<div class="container">
 			<div class="nav-right">
 				<a href=""><i class="fa fa-search"></i></a>
-				<a href=""><i class="fa fa-shopping-cart"></i></a>
 			</div>
 			<ul class="main-menu">
+<<<<<<< HEAD
 				<li class="active"><a href="index.php?page=accueil">Home</a></li>
 				<li><a href="index.php?page=about">About Us</a></li>
 				<li><a href="#">Event</a></li>
 				<li><a href="index.php?page=course">COURSES</a></li>
 				<li><a href="index.php?page=blog">blog</a></li>
+=======
+				<li class="active"><a href="index.php?page=accueil">Accueil</a></li>
+				<li><a href="index.php?page=historique">Historique</a></li>
+				<li><a href="index.php?page=blog">En photos</a></li>
+>>>>>>> 3bc580d34503e715234acc4ea9afa51cb2f55358
 				<li><a href="index.php?page=contact">Contact</a></li>
 			</ul>
 		</div>

@@ -17,21 +17,13 @@
 				</div>
 				<!-- widget -->
 				<div class="col-sm-6 col-lg-3 footer-widget">
-					<h6 class="fw-title">USEFUL LINK</h6>
+					<h6 class="fw-title">Lien util</h6>
 					<div class="dobule-link">
 						<ul>
-							<li><a href="">Home</a></li>
-							<li><a href="">About us</a></li>
-							<li><a href="">Services</a></li>
-							<li><a href="">Events</a></li>
-							<li><a href="">Features</a></li>
-						</ul>
-						<ul>
-							<li><a href="">Policy</a></li>
-							<li><a href="">Term</a></li>
-							<li><a href="">Help</a></li>
-							<li><a href="">FAQs</a></li>
-							<li><a href="">Site map</a></li>
+							<li><a href="index.php?page=accueil">Accueil</a></li>
+							<li><a href="index.php?page=historique">Historique</a></li>
+							<li><a href="index.php?page=blog">En photos</a></li>
+							<li><a href="index.php?page=contact">Contact</a></li>
 						</ul>
 					</div>
 				</div>
@@ -53,10 +45,10 @@
 				<div class="col-sm-6 col-lg-3 footer-widget">
 					<h6 class="fw-title">CONTACT</h6>
 					<ul class="contact">
-						<li><p><i class="fa fa-map-marker"></i> 40 Baria Street 133/2, NewYork City,US</p></li>
-						<li><p><i class="fa fa-phone"></i> (+88) 111 555 666</p></li>
-						<li><p><i class="fa fa-envelope"></i> infodeercreative@gmail.com</p></li>
-						<li><p><i class="fa fa-clock-o"></i> Monday - Friday, 08:00AM - 06:00 PM</p></li>
+						<li><p><i class="fa fa-map-marker"></i> Lot III X 307 C Manarintsoa Est, Antananarivo 101, MADAGASCAR</p></li>
+						<li><p><i class="fa fa-phone"></i> +26133 11 199 36</p></li>
+						<li><p><i class="fa fa-envelope"></i> lyceeprivelapie@gmail.com</p></li>
+						<li><p><i class="fa fa-clock-o"></i> Lundi - Vendredi, 07:00 - 17:00 </p></li>
 					</ul>
 				</div>
 			</div>
@@ -65,8 +57,8 @@
 		<div class="copyright">
 			<div class="container">
 				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+				Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Ce site est fait par binDev<i class="fa fa-heart-o" aria-hidden="true"></i>
+				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 			</div>		
 		</div>
 	</footer>
