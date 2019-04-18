@@ -5,19 +5,12 @@
 				<div class="col-sm-6 col-lg-3 footer-widget">
 					<div class="about-widget">
 						<img src="img/logo-light.png" alt="">
-						<p>orem ipsum dolor sit amet, consecter adipiscing elite. Donec minos varius, viverra justo ut, aliquet nisl.</p>
-						<div class="social pt-1">
-							<a href=""><i class="fa fa-twitter-square"></i></a>
-							<a href=""><i class="fa fa-facebook-square"></i></a>
-							<a href=""><i class="fa fa-google-plus-square"></i></a>
-							<a href=""><i class="fa fa-linkedin-square"></i></a>
-							<a href=""><i class="fa fa-rss-square"></i></a>
-						</div>
+						<p>LA PIE (LA Pépinière des Intellectuels Elites) est un groupe scolaire qui se situe sur deux sites: Manarintsoa et Ambaniala Andranonahoatra</p>
 					</div>
 				</div>
 				<!-- widget -->
 				<div class="col-sm-6 col-lg-3 footer-widget">
-					<h6 class="fw-title">Lien util</h6>
+					<h6 class="fw-title">Lien utile</h6>
 					<div class="dobule-link">
 						<ul>
 							<li><a href="index.php?page=accueil">Accueil</a></li>
@@ -29,15 +22,15 @@
 				</div>
 				<!-- widget -->
 				<div class="col-sm-6 col-lg-3 footer-widget">
-					<h6 class="fw-title">RECENT POST</h6>
+					<h6 class="fw-title">ACTIVIT&Eacute;S R&Eacute;CENTES</h6>
 					<ul class="recent-post">
 						<li>
-							<p>Snackable study:How to break <br> up your master's degree</p>
-							<span><i class="fa fa-clock-o"></i>24 Mar 2018</span>
+							<p>Célébration du 20ème anniversaire</p>
+							<span><i class="fa fa-clock-o"></i>2012</span>
 						</li>
 						<li>
-							<p>Open University plans major <br> cuts to number of staff</p>
-							<span><i class="fa fa-clock-o"></i>24 Mar 2018</span>
+							<p>Célébration du 15ème anniversaire</p>
+							<span><i class="fa fa-clock-o"></i>2007</span>
 						</li>
 					</ul>
 				</div>

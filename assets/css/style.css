@@ -259,7 +259,7 @@ ol {
 	display: inline-block;
 	position: relative;
 	text-align: center;
-	color: #f6783a;
+	color: #0084FF;
 	font-size: 17px;
 	padding-top: 13px;
 	margin-right: 20px;
@@ -301,7 +301,7 @@ ol {
 }
 
 .nav-section {
-	background: #020031;
+	background: #6e7173;
 }
 
 .nav-section .nav-right {
@@ -337,11 +337,11 @@ ol {
 }
 
 .main-menu li a:hover {
-	background: #f6783a;
+	background: #0084FF;
 }
 
 .main-menu li.active a {
-	background: #f6783a;
+	background: #0084FF;
 }
 
 /*---------------------
@@ -451,7 +451,7 @@ ol {
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background: #f6783a;
+	background: #0084FF;
 }
 
 /*---------------------
@@ -571,7 +571,7 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #000;
+	background: #6e7173;
 	opacity: 0.8;
 }
 
@@ -599,7 +599,7 @@ ol {
 	top: 0;
 	text-align: center;
 	border-radius: 50px;
-	background: #f6783a;
+	background: #0084FF;
 	font-size: 16px;
 	font-weight: 500;
 	padding-top: 10px;
@@ -660,7 +660,7 @@ ol {
 .course-item .course-thumb .course-cat span {
 	min-width: 150px;
 	bottom: 0;
-	background: #f6783a;
+	background: #0084FF;
 	padding: 10px 15px;
 	text-align: center;
 	font-size: 13px;
@@ -742,7 +742,7 @@ ol {
 }
 
 .fact-text h2 {
-	color: #f6783a;
+	color: #0084FF;
 	font-weight: 400;
 }
 

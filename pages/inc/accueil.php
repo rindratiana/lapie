@@ -51,15 +51,6 @@
 				</div>
 				<div class="col-lg-4 col-sm-6 service-item">
 					<div class="service-icon">
-						<img src="../assets/img/icone/reussite.png" alt="1">
-					</div>
-					<div class="service-content">
-						<h4>La réussite</h4>
-						<p>Nous vous accopoagnons jusqu'à votre réussite à toutes les situations grâce à nos systèmes éducatifs et nos enseignements
-					</div>
-				</div>
-				<div class="col-lg-4 col-sm-6 service-item">
-					<div class="service-icon">
 						<img src="../assets/img/icone/ameliorer.png" alt="1">
 					</div>
 					<div class="service-content">
@@ -68,6 +59,15 @@
 					</div>
 				</div>
 				<div class="col-lg-4 col-sm-6 service-item">
+					<div class="service-icon">
+						<img src="../assets/img/icone/reussite.png" alt="1">
+					</div>
+					<div class="service-content">
+						<h4>La réussite</h4>
+						<p>Nous vous accopoagnons jusqu'à votre réussite à toutes les situations grâce à nos systèmes éducatifs et nos enseignements
+					</div>
+				</div>
+				<!-- <div class="col-lg-4 col-sm-6 service-item">
 					<div class="service-icon">
 						<img src="../assets/img/services-icons/4.png" alt="1">
 					</div>
@@ -93,7 +93,7 @@
 						<h4>Chemistry Lab</h4>
 						<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue. Aenean dos cursus lania.</p>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</section>
@@ -106,24 +106,24 @@
 			<div class="row">
 				<div class="col-lg-5">
 					<div class="section-title text-white">
-						<h3>ENROLLMENT</h3>
-						<p>Get started with us to explore the exciting</p>
+						<h3>POURQUOI NOUS CHOISIR?</h3>
+						<p></p>
 					</div>
 					<div class="enroll-list text-white">
 						<div class="enroll-list-item">
 							<span>1</span>
-							<h5>Contact</h5>
-							<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue.</p>
+							<h5>Qualités</h5>
+							<p>Nos enseignants ont des compétences didactiques et pédagogiques.</p>
 						</div>
 						<div class="enroll-list-item">
 							<span>2</span>
-							<h5>Consulting</h5>
-							<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue.</p>
+							<h5>Infrastructure</h5>
+							<p>Nous disposons deux grands bâtiments bien aérés et une grande cour.</p>
 						</div>
 						<div class="enroll-list-item">
 							<span>3</span>
-							<h5>Register</h5>
-							<p>Lorem ipsum dolor sitdo amet, consectetur dont adipis elit. Vivamus interdum ultrices augue.</p>
+							<h5>Activités parascolaires</h5>
+							<p>La Pie propose des activités parascolaires pour que les élèves atteignent un bon équilibre entre les temps d'apprentissage et pour qu'ils se sentent bien, à la fois physiquement et psychologiquement.</p>
 						</div>
 					</div>
 				</div>
@@ -140,8 +140,8 @@
 	<section class="courses-section spad">
 		<div class="container">
 			<div class="section-title text-center">
-				<h3>OUR COURSES</h3>
-				<p>Building a better world, one course at a time</p>
+				<h3>NOS PARCOURS</h3>
+				<p>Nous accompagnons les élèves pour leurs permettre de développer leur plein potentiel</p>
 			</div>
 			<div class="row">
 				<!-- course item -->
@@ -149,13 +149,11 @@
 					<div class="course-thumb">
 						<img src="../assets/img/course/1.jpg" alt="">
 						<div class="course-cat">
-							<span>BUSINESS</span>
+							<span>PRESCOLAIRE</span>
 						</div>
 					</div>
 					<div class="course-info">
-						<div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div>
-						<h4>Certificate Course in Writing<br>for a Global Market</h4>
-						<h4 class="cource-price">$100<span>/month</span></h4>
+						<h4>Préparation aux apprentissages fondamentaux (lecture, écriture et calcul)</h4>
 					</div>
 				</div>
 				<!-- course item -->
@@ -163,13 +161,11 @@
 					<div class="course-thumb">
 						<img src="../assets/img/course/2.jpg" alt="">
 						<div class="course-cat">
-							<span>Marketing</span>
+							<span>PRIMAIRE</span>
 						</div>
 					</div>
 					<div class="course-info">
-						<div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div>
-						<h4>Google AdWords: Get More<br> Customers with Search Marketing </h4>
-						<h4 class="cource-price">$150<span>/month</span></h4>
+						<h4>Cycle de consolidation</h4>
 					</div>
 				</div>
 				<!-- course item -->
@@ -177,57 +173,14 @@
 					<div class="course-thumb">
 						<img src="../assets/img/course/3.jpg" alt="">
 						<div class="course-cat">
-							<span>DESIGN</span>
+							<span>SECONDAIRE</span>
 						</div>
 					</div>
 					<div class="course-info">
-						<div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div>
-						<h4>The Ultimate Drawing Course<br> Beginner to Advanced</h4>
-						<h4 class="cource-price">$180<span>/month</span></h4>
+						<h4>Cycle des approfondissements</h4>
 					</div>
 				</div>
-				<!-- course item -->
-				<div class="col-lg-4 col-md-6 course-item">
-					<div class="course-thumb">
-						<img src="../assets/img/course/4.jpg" alt="">
-						<div class="course-cat">
-							<span>DATABASE</span>
-						</div>
-					</div>
-					<div class="course-info">
-						<div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div>
-						<h4>Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert</h4>
-						<h4 class="cource-price">$150<span>/month</span></h4>
-					</div>
-				</div>
-				<!-- course item -->
-				<div class="col-lg-4 col-md-6 course-item">
-					<div class="course-thumb">
-						<img src="../assets/img/course/5.jpg" alt="">
-						<div class="course-cat">
-							<span>PROGRAM</span>
-						</div>
-					</div>
-					<div class="course-info">
-						<div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div>
-						<h4>Web Developer Bootcamp<br>Make web  applications</h4>
-						<h4 class="cource-price">$250<span>/month</span></h4>
-					</div>
-				</div>
-				<!-- course item -->
-				<div class="col-lg-4 col-md-6 course-item">
-					<div class="course-thumb">
-						<img src="../assets/img/course/6.jpg" alt="">
-						<div class="course-cat">
-							<span>BUSINESS</span>
-						</div>
-					</div>
-					<div class="course-info">
-						<div class="date"><i class="fa fa-clock-o"></i> 22 Mar 2018</div>
-						<h4>How to Start an Amazon<br>FBA Store on a Tight Budget</h4>
-						<h4 class="cource-price">$150<span>/month</span></h4>
-					</div>
-				</div>
+				
 			</div>
 		</div>
 	</section>
@@ -243,8 +196,8 @@
 						<i class="ti-crown"></i>
 					</div>
 					<div class="fact-text">
-						<h2>50</h2>
-						<p>YEARS</p>
+						<h2>27</h2>
+						<p>ANS D'EXISTENCES</p>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-3 fact">
@@ -252,8 +205,8 @@
 						<i class="ti-briefcase"></i>
 					</div>
 					<div class="fact-text">
-						<h2>80</h2>
-						<p>TEACHERS</p>
+						<h2>20+</h2>
+						<p>PERSONNELS</p>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-3 fact">
@@ -261,8 +214,8 @@
 						<i class="ti-user"></i>
 					</div>
 					<div class="fact-text">
-						<h2>500</h2>
-						<p>STUDENTS</p>
+						<h2>300+</h2>
+						<p>&Eacute;L&Egrave;VES</p>
 					</div>
 				</div>
 				<div class="col-sm-6 col-lg-3 fact">
@@ -270,8 +223,8 @@
 						<i class="ti-pencil-alt"></i>
 					</div>
 					<div class="fact-text">
-						<h2>800+</h2>
-						<p>LESSONS</p>
+						<h2>100+</h2>
+						<p>INSCRIPTION ANNUELLE</p>
 					</div>
 				</div>
 			</div>

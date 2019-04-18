@@ -29,21 +29,10 @@
 	<!-- Header section  -->
 	<nav class="nav-section">
 		<div class="container">
-			<div class="nav-right">
-				<a href=""><i class="fa fa-search"></i></a>
-			</div>
 			<ul class="main-menu">
-<<<<<<< HEAD
-				<li class="active"><a href="index.php?page=accueil">Home</a></li>
-				<li><a href="index.php?page=about">About Us</a></li>
-				<li><a href="#">Event</a></li>
-				<li><a href="index.php?page=course">COURSES</a></li>
-				<li><a href="index.php?page=blog">blog</a></li>
-=======
 				<li class="active"><a href="index.php?page=accueil">Accueil</a></li>
 				<li><a href="index.php?page=historique">Historique</a></li>
 				<li><a href="index.php?page=blog">En photos</a></li>
->>>>>>> 3bc580d34503e715234acc4ea9afa51cb2f55358
 				<li><a href="index.php?page=contact">Contact</a></li>
 			</ul>
 		</div>
