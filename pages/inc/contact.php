@@ -32,7 +32,9 @@
 					</div>
 				</div>
 				<!-- Google map -->
-				<div class="map" id="map-canvas"></div>
+				<div class="map" id="map-canvas">
+					<img src="../assets/img/map.PNG" alt="">
+				</div>
 			</div>
 			<div class="contact-form spad pb-0">
 				<div class="section-title text-center">

@@ -2,7 +2,7 @@
 	<!-- Hero section -->
 	<section class="hero-section">
 		<div class="hero-slider owl-carousel">
-			<div class="hs-item set-bg" data-setbg="../assets/img/hero-slider/1.jpg">
+			<div class="hs-item set-bg" data-setbg="../assets/img/hero-slider/3.jpg">
 				<div class="hs-text">
 					<div class="container">
 						<div class="row">
@@ -15,7 +15,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="hs-item set-bg" data-setbg="../assets/img/hero-slider/2.jpg">
+			<div class="hs-item set-bg" data-setbg="../assets/img/hero-slider/4.jpg">
 				<div class="hs-text">
 					<div class="container">
 						<div class="row">

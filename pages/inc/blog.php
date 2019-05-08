@@ -74,90 +74,29 @@
 					</div>
 					<!-- widget -->
 					<div class="widget">
-						<h5 class="widget-title">Recent News</h5>
+						<h5 class="widget-title">Evènements récents</h5>
 						<div class="recent-post-widget">
 							<!-- recent post -->
 							<div class="rp-item">
-								<div class="rp-thumb set-bg" data-setbg="img/blog/recent-post/1.jpg"></div>
+								<div class="rp-thumb set-bg" data-setbg="../assets/img/blog/recent-post/1.jpg"></div>
 								<div class="rp-content">
-									<h6>Snackable study:How to break up your master's degree</h6>
-									<p><i class="fa fa-clock-o"></i> 24 Mar 2018</p>
+									<h6>20ème anniversaire</h6>
+									<p><i class="fa fa-clock-o"></i>2012</p>
 								</div>
 							</div>
 							<!-- recent post -->
 							<div class="rp-item">
-								<div class="rp-thumb set-bg" data-setbg="img/blog/recent-post/2.jpg"></div>
+								<div class="rp-thumb set-bg" data-setbg="../assets/img/blog/recent-post/2.jpg"></div>
 								<div class="rp-content">
-									<h6>Op en University plans major ts to number of staff</h6>
-									<p><i class="fa fa-clock-o"></i> 24 Mar 2018</p>
-								</div>
-							</div>
-							<!-- recent post -->
-							<div class="rp-item">
-								<div class="rp-thumb set-bg" data-setbg="img/blog/recent-post/3.jpg"></div>
-								<div class="rp-content">
-									<h6>My postgrad: ‘I worked on essays as giraffes walked by’</h6>
-									<p><i class="fa fa-clock-o"></i> 24 Mar 2018</p>
-								</div>
-							</div>
-							<!-- recent post -->
-							<div class="rp-item">
-								<div class="rp-thumb set-bg" data-setbg="img/blog/recent-post/4.jpg"></div>
-								<div class="rp-content">
-									<h6>How to use the Guardian University Guide</h6>
-									<p><i class="fa fa-clock-o"></i> 24 Mar 2018</p>
-								</div>
-							</div>
-							<!-- recent post -->
-							<div class="rp-item">
-								<div class="rp-thumb set-bg" data-setbg="img/blog/recent-post/5.jpg"></div>
-								<div class="rp-content">
-									<h6>My MBA experience: ‘It was an eye opener’</h6>
-									<p><i class="fa fa-clock-o"></i> 24 Mar 2018</p>
-								</div>
-							</div>
-							<!-- recent post -->
-							<div class="rp-item">
-								<div class="rp-thumb set-bg" data-setbg="img/blog/recent-post/6.jpg"></div>
-								<div class="rp-content">
-									<h6>My MBA experience: ‘It was an eye opener’</h6>
-									<p><i class="fa fa-clock-o"></i> 24 Mar 2018</p>
+									<h6>15ème anniversaire</h6>
+									<p><i class="fa fa-clock-o"></i>2007</p>
 								</div>
 							</div>
 						</div>
 					</div>
 					<!-- widget -->
 					<div class="widget">
-						<h4 class="widget-title">Tags</h4>
-						<div class="tags">
-							<a href="#">DEVELOPMENT</a>
-							<a href="#">BUSINESS</a>
-							<a href="#">PROJECTS</a>
-							<a href="#">GOOGLE ADWORDS</a>
-							<a href="#">SQL DATABASE</a>
-							<a href="#">MARKETING</a>
-							<a href="#">DESIGN</a>
-						</div>
-					</div>
-					<!-- widget -->
-					<div class="widget">
-						<h4 class="widget-title">Categories</h4>
-						<ul>
-							<li><a href="">Business</a></li>
-							<li><a href="">Design</a></li>
-							<li><a href="">Management</a></li>
-							<li><a href="">Marketing Plans</a></li>
-							<li><a href="">Construction</a></li>
-							<li><a href="">Honored</a></li>
-							<li><a href="">Program development</a></li>
-							<li><a href="">My SQL database</a></li>
-							<li><a href="">Google Adwords</a></li>
-							<li><a href="">Education</a></li>
-						</ul>
-					</div>
-					<!-- widget -->
-					<div class="widget">
-						<img src="img/ad.jpg" alt="">
+						<img src="../assets/img/ad.jpg" alt="">
 					</div>
 				</div>
 			</div>

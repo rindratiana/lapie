@@ -30,10 +30,10 @@
 	<nav class="nav-section">
 		<div class="container">
 			<ul class="main-menu">
-				<li class="active"><a href="index.php?page=accueil">Accueil</a></li>
-				<li><a href="index.php?page=historique">Historique</a></li>
-				<li><a href="index.php?page=blog">En photos</a></li>
-				<li><a href="index.php?page=contact">Contact</a></li>
+				<li class="active"><a href="page-accueil.html">Accueil</a></li>
+				<li><a href="page-historique.html">Historique</a></li>
+				<li><a href="page-blog.html">En photos</a></li>
+				<li><a href="page-blog.html">Contact</a></li>
 			</ul>
 		</div>
 	</nav>

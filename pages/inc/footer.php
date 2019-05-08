@@ -4,7 +4,7 @@
 				<!-- widget -->
 				<div class="col-sm-6 col-lg-3 footer-widget">
 					<div class="about-widget">
-						<img src="img/logo-light.png" alt="">
+						<img src="../assets/img/logo-light.png" alt="">
 						<p>LA PIE (LA Pépinière des Intellectuels Elites) est un groupe scolaire qui se situe sur deux sites: Manarintsoa et Ambaniala Andranonahoatra</p>
 					</div>
 				</div>
@@ -13,10 +13,10 @@
 					<h6 class="fw-title">Lien utile</h6>
 					<div class="dobule-link">
 						<ul>
-							<li><a href="index.php?page=accueil">Accueil</a></li>
-							<li><a href="index.php?page=historique">Historique</a></li>
-							<li><a href="index.php?page=blog">En photos</a></li>
-							<li><a href="index.php?page=contact">Contact</a></li>
+							<li><a href="page-accueil.html">Accueil</a></li>
+							<li><a href="page-historique.html">Historique</a></li>
+							<li><a href="page-blog.html">En photos</a></li>
+							<li><a href="page-contact.html">Contact</a></li>
 						</ul>
 					</div>
 				</div>
