@@ -44,9 +44,9 @@
 							<div class="ts-author-pic set-bg" data-setbg="../assets/img/member/5.jpg"></div>
 						</div>
 						<div class="col-md-9 ts-text">
-							<p>“ I want to let you know that I am very absolutely delighted with the course in every respect. It has been particularly pleasing for me, with an interest in seeing the application and good educational practice to school education. Learn a different approach that leads to better outcomes. ”</p>
-							<h5>Mme Nivo</h5>
-							<span>Directrice de l' école</span>
+							<p>“ C'est à la maison et à l' école que l' enfant doit apprendre à être honnête, à ne pas mentir, à être correct, ponctuel, à ne pas dire de gros mots, à faire preuve de solidarité, à respecter ses amis, les personnes âgées et les professeurs. ”</p>
+							<h5>Mr Angelo</h5>
+							<span>Directeur de l' école</span>
 						</div>
 					</div>
 				</div>

@@ -1,0 +1,3 @@
+-Serveur Apache
+-Php 5
+-fichier .htaccess dans le dossier pages

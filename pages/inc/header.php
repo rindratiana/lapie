@@ -33,7 +33,7 @@
 				<li class="active"><a href="page-accueil.html">Accueil</a></li>
 				<li><a href="page-historique.html">Historique</a></li>
 				<li><a href="page-blog.html">En photos</a></li>
-				<li><a href="page-blog.html">Contact</a></li>
+				<li><a href="page-contact.html">Contact</a></li>
 			</ul>
 		</div>
 	</nav>
