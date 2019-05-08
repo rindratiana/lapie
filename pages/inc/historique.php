@@ -23,9 +23,6 @@
 						<li><i class="fa fa-check-square-o"></i>29 Avril 2019: Vacances Pâques</li>
 						<li><i class="fa fa-check-square-o"></i>23 Décembre 2018: Célébration Noel à La Pie</li>
 						<li><i class="fa fa-check-square-o"></i>18 Mars 2018: Célébration du 20 ème anniversaire</li>
-						<!-- <li><i class="fa fa-check-square-o"></i>Date 4: &Eacute;vènement 4</li>
-						<li><i class="fa fa-check-square-o"></i>Date 5: &Eacute;vènement 5</li>
-						<li><i class="fa fa-check-square-o"></i>Date 6: &Eacute;vènement 6</li> -->
 					</ul>
 				</div>
 				<div class="col-lg-6 pt-5 pt-lg-0">

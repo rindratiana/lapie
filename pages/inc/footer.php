@@ -50,7 +50,7 @@
 		<div class="copyright">
 			<div class="container">
 				<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-				Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Ce site est fait par binDev<i class="fa fa-heart-o" aria-hidden="true"></i>
+				Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Ce site est fait par RAKOTOARISOA Rindra Tiana ETU00615<i class="fa fa-heart-o" aria-hidden="true"></i>
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 			</div>		
 		</div>
